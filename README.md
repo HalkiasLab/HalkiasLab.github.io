@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# HalkiasLab.github.io
 ====================
 
 Technologies this website uses:  
