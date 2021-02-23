@@ -8,8 +8,8 @@ position: Principal Investigator
 #current:
 pronouns: she/her/hers
 email: joanna.halkias (at) ucsf.edu
-scholar: 
+scholar:
 website:
 UCSF: joanna.halkias
-description: "joanna likes veronica best"
+description: ""
 ---
