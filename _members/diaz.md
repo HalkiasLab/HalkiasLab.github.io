@@ -1,20 +1,20 @@
 ---
-name: Roberto Efraín (Robbie) Díaz
+name: Sara Park, BS
 startdate: 2018-06-25
 enddate: YYYY-MM-DD
 image: /static/img/members/Diaz.jpg
 altimage: /static/img/members/Diaz_pb.jpg
-position: Graduate Student, Tetrad
+position: Staff Research Associate
 #subsequent:  update once you become an alumnus
-pronouns: he/él
+pronouns: she/her/hers
 email: roberto.diaz (at) ucsf.edu
-scholar: L_OCeG4AAAAJ
-website: https://rediaz.science/
+scholar:
+website:
 UCSF:
-twitter: robbiediaz_
-linkedin: rediaz111
-github: rediaz111
-orcid: 0000-0002-1172-9919
+twitter:
+linkedin:
+github:
+orcid:
 description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Dr. Vance Lemmon's lab.
 
 
