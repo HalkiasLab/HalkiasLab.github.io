@@ -15,10 +15,9 @@ twitter: veronicaloch
 linkedin:
 github:
 orcid: 0000-0002-2068-1195
-description: "Veronica graduated from Wellesley College with a degree in Biological Sciences. She worked for Pivot Bio.
-
+description: "Veronica graduated from Wellesley College with a degree in Biological Sciences. She worked for [Pivot Bio](https://www.pivotbio.com/).
 
 As the first member of the Halkias Lab,
 
-In her free time she 
+In her free time she
 ---
