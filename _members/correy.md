@@ -2,7 +2,7 @@
 name: Veronica Locher, BA
 startdate: 2019-08-19
 enddate: YYYY-MM-DD
-image: /static/img/members/veronica.jpg
+image: /static/img/members/veronica.JPG
 altimage:
 position: Staff Research Associate
 #subsequent:  update once you become an alumnus
