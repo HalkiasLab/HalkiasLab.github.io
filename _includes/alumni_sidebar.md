@@ -40,30 +40,3 @@ Subsequently: {{member.subsequent}} <br>
 </p>
 </div>
 {% endfor %}
-
-
-<br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
-{% for student in sep_sorted %}
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-{% if student.startdate %} {{student.startdate | date:"%Y"}} - {% endif %}{{student.enddate | date:"%Y"}} <br>
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
-## Fraser Lab Visitors
-{% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}
-{% for visitor in visitor_sorted %}
-<hr>
-<div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}} from {{visitor.current}}</em><br>
-{% if visitor.startdate %} {{visitor.startdate | date:"%Y"}} - {% endif %}{{visitor.enddate | date:"%Y"}}
-</p>
-</div> {% endfor %}
