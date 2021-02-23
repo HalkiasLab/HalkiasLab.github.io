@@ -1,5 +1,5 @@
 ---
-name: Veronica Locher, Ph.D.
+name: Veronica Locher, BA
 startdate: 2019-08-19
 enddate: YYYY-MM-DD
 image: /static/img/members/Correy.jpg
