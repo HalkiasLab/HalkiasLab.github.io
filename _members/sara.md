@@ -1,6 +1,6 @@
 ---
 name: Sara Park, BS
-startdate: 2018-06-25
+startdate: 2020-08-28
 enddate: YYYY-MM-DD
 image: /static/img/members/sara.jpg
 altimage:

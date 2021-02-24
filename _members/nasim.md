@@ -1,6 +1,6 @@
 ---
 name: Nasim Karimi Ramirez, PhD
-startdate: 2019-08-19
+startdate: 2020-08-26
 enddate: YYYY-MM-DD
 image:
 altimage:
@@ -12,8 +12,8 @@ scholar:
 website:
 UCSF:
 twitter:
-linkedin: veronica-locher-14415610b
+linkedin:
 github:
-orcid: 0000-0002-2068-1195
+orcid:
 description: ""
 ---
