@@ -14,10 +14,6 @@
   link: "/members"
   group: members
 
-- name: philosophy
-  link: "/compact"
-  group: compact
-
 - name: news
   link: "/news"
   group: news
