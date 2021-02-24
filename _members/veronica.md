@@ -20,6 +20,6 @@ description: "Veronica graduated from Wellesley College with a degree in biologi
 
 As the first hire to the Halkias Lab, Veronica has worked on a broad range of projects, but is currently studying ways in which the fetal intestinal environment contributes to the maturation and regulation of protective T cell populations in utero.
 
-When she's not in lab you can find Veronica rollerskating in Golden Gate Park or baking cookies
+When she's not in lab you can find Veronica rollerskating in Golden Gate Park or perfecting her chocolate chip cookie recipe
 "
 ---
