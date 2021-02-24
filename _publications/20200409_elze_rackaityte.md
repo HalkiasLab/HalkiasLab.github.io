@@ -7,5 +7,5 @@ image: '/static/img/pub/2020_rackaityte.jpg'
 pmid:
 pmcid:
 biorxiv:
-pdf: 'file:///C:/Users/veronica/Downloads/fimmu-11-00588.pdf'
+pdf: 'https://www.frontiersin.org/articles/10.3389/fimmu.2020.00588/full'
 ---
