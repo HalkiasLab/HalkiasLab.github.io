@@ -2,7 +2,7 @@
 name: Joanna Halkias, MD
 startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
-image: /static/img/members/joanna.jpg
+image: /static/img/members/joanna_.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
 #current:
