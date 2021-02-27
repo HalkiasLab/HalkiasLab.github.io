@@ -1,5 +1,5 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the Halkias Lab
 layout: default
 group: research
 ---
