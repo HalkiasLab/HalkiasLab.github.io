@@ -4,7 +4,7 @@ startdate: 2019-08-19
 enddate: YYYY-MM-DD
 image: /static/img/members/nasim.jpeg
 altimage:
-position: Postdoctoral Fello
+position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: veronica.locher (at) ucsf.edu
@@ -14,7 +14,7 @@ UCSF:
 twitter:
 linkedin:
 github:
-orcid: 0000-0002-2068-1195
+orcid:
 description: "Nasim completed her Phd at The University of Texas at El Paso where she studied extracellular vesicles (EVs) derived from Trypanosoma cruzi (T. cruzi), the causative agent of Chagas disease (ChD). She isolated and characterized T. cruzi EVs through proteomic, lipidomic, and immunoassays, and tested how EVs assist T. cruzi parasite in its pathogenesis in vitro. Through this work she  acquired experience with pathogens and their interaction with the immune system, immunoassays and advanced microscopy, as well as good experience in proteomics analysis, and biostatistics, and basic experience in spectral flow cytometry and mice handling.
 
 
