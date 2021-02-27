@@ -1,13 +1,13 @@
 ---
-name: Nasim Karimi Ramirez, BA
-startdate: 2019-08-19
+name: Nasim Karimi Ramirez, PhD
+startdate: 2020-08-19
 enddate: YYYY-MM-DD
 image: /static/img/members/nasim.jpeg
 altimage:
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
-email: veronica.locher (at) ucsf.edu
+email: 
 scholar:
 website:
 UCSF:
