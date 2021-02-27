@@ -4,7 +4,7 @@ startdate: 2020-08-28
 enddate: YYYY-MM-DD
 image: /static/img/members/sara.jpg
 altimage:
-position: Staff Research Associate 1
+position: Staff Research Associate 
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: sara.park2 (at) ucsf.edu
