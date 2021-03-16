@@ -1,6 +1,6 @@
 ---
 published: true
-title: "CD161 contributes to prenatal immune suppression of IFN-γ–producing PLZF+ T cells"
+title: "Viable bacterial colonization is highly limited in the human intestine in utero"
 citation: "**Halkias J**, Rackaityte E, Hillman SL, Aran D, Mendoza VF, Marshall LR, Mackenzie TC, Burt TD. *The Journal of Clinical Investigation*. 2019."
 date: '2019-05-30'
 image: '/static/img/pub/2019_halkias.jpg'
