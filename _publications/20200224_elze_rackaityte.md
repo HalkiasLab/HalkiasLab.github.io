@@ -1,11 +1,11 @@
 ---
 published: true
-title: "Mechanisms of Fetal T Cell Tolerance and Immune Regulation"
-citation: "Rackaityte E and **Halkias J**. *Frontiers in Immunology*. 2020."
+title: "Viable bacterial colonization is highly limited in the human intestine in utero"
+citation: "Rackaityte E,**Halkias J**, Mendoza V, Hayzelden C, Crawford E, Fujimura K, Burt T & Lynch S." *Nature Medicine*. 2020."
 date: '2020-04-09'
-image: '/static/img/pub/2020_rack.jpg'
+image: '/static/img/pub/2020_rack_2.jpg'
 pmid:
 pmcid:
 biorxiv:
-pdf: 'https://www.frontiersin.org/articles/10.3389/fimmu.2020.00588/full'
+pdf: 'https://www.nature.com/articles/s41591-020-0761-3'
 ---
