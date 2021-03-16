@@ -3,7 +3,7 @@ published: true
 title: "Viable bacterial colonization is highly limited in the human intestine in utero"
 citation: "**Halkias J**, Rackaityte E, Hillman SL, Aran D, Mendoza VF, Marshall LR, Mackenzie TC, Burt TD. *The Journal of Clinical Investigation*. 2019."
 date: '2020-02-24'
-image: '/static/img/pub/2019_halkias.jpg'
+image: '/static/img/pub/2020_rack_2.jpg'
 pmid:
 pmcid:
 biorxiv:
