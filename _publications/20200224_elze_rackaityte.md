@@ -1,11 +1,11 @@
 ---
 published: true
-title: "Viable bacterial colonization is highly limited in the human intestine in utero"
-citation: "Rackaityte E,**Halkias J**, Mendoza V, Hayzelden C, Crawford E, Fujimura K, Burt T & Lynch S." *Nature Medicine*. 2020."
-date: '2020-04-09'
-image: '/static/img/pub/2020_rack_2.jpg'
+title: "CD161 contributes to prenatal immune suppression of IFN-γ–producing PLZF+ T cells"
+citation: "**Halkias J**, Rackaityte E, Hillman SL, Aran D, Mendoza VF, Marshall LR, Mackenzie TC, Burt TD. *The Journal of Clinical Investigation*. 2019."
+date: '2019-05-30'
+image: '/static/img/pub/2019_halkias.jpg'
 pmid:
 pmcid:
 biorxiv:
-pdf: 'https://www.nature.com/articles/s41591-020-0761-3'
+pdf: 'https://dm5migu4zj3pb.cloudfront.net/manuscripts/125000/125957/cache/125957.3-20190821141049-covered-e0fd13ba177f913fd3156f593ead4cfd.pdf'
 ---
